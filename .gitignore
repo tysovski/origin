@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-tmp/*
+
+*tmp/
 *_old
 *_backup
 *Thumbs.db
-=======
-tmp/*
-*_old
-*_backup
-*Thumbs.db
->>>>>>> fc39eeabfc57b297f4942c848d45cdd741ec62f5
 *.DS_Store
